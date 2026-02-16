@@ -1,0 +1,18 @@
+name: nestjs-mongodb
+id: ari:cloud:compass:f41735b2-2184-451a-8f4b-18fff6c4b4ef:component/efa8c6af-3782-4d71-a72a-1aa32915fb01/68972590-7acb-40de-a505-7aab1d98689e
+description: The MNNN Tech Stack. Using NestJS, MongoDB and Mongoose
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/3a452d7c-0b85-4088-812c-076815cc957d
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/camland-media-group/nestjs-mongodb
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+customFields: null
